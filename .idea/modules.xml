@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../school3/.idea/school3.iml" filepath="$PROJECT_DIR$/../school3/.idea/school3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/website-khodro.iml" filepath="$PROJECT_DIR$/.idea/website-khodro.iml" />
+    </modules>
+  </component>
+</project>
